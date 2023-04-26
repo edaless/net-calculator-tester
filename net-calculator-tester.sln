@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-calculator-tester", "net-calculator-tester\net-calculator-tester.csproj", "{33B3262B-5920-448A-917A-217C3A77F5B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "net-calculator-tester", "net-calculator-tester\net-calculator-tester.csproj", "{33B3262B-5920-448A-917A-217C3A77F5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{A46D1062-0BD9-4B02-B5B3-8A7FDB5EB379}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{33B3262B-5920-448A-917A-217C3A77F5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33B3262B-5920-448A-917A-217C3A77F5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33B3262B-5920-448A-917A-217C3A77F5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46D1062-0BD9-4B02-B5B3-8A7FDB5EB379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46D1062-0BD9-4B02-B5B3-8A7FDB5EB379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46D1062-0BD9-4B02-B5B3-8A7FDB5EB379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46D1062-0BD9-4B02-B5B3-8A7FDB5EB379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
